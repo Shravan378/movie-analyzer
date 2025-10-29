@@ -61,4 +61,4 @@ networks:
     driver: bridge
 
 volumes:
-  postgres_data:
+  postgres_data:# verified deployment on EC2 29-Oct-2025

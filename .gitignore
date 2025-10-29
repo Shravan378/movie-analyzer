@@ -386,4 +386,4 @@ k8s/*secret*.yaml
 k8s/*secret*.yml
 
 # Local Docker volumes (if any)
-volumes/ 
+volumes/ # verified update on 29-Oct-2025
