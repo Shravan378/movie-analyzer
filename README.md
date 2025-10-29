@@ -450,4 +450,4 @@ movie-analyzer/
 
 ---
 
-**Movie Analyzer** - Demonstrating modern DevOps practices with microservices, containers, and Kubernetes orchestration. 
+**Movie Analyzer** - Demonstrating modern DevOps practices with microservices, containers, and Kubernetes orchestration. # Minor update for deployment
