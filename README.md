@@ -452,3 +452,16 @@ movie-analyzer/
 
 **Movie Analyzer** - Demonstrating modern DevOps practices with microservices, containers, and Kubernetes orchestration. # Minor update for deployment
 Deployed successfully on AWS EC2 (verified on 29-Oct-2025)
+
+---
+
+## 🚀 Deployment Verification
+
+✅ **Project:** Movie Analyzer  
+✅ **Deployed on:** AWS EC2 (Amazon Linux 2023)  
+✅ **Verification Date:** $(date '+%d-%b-%Y')  
+✅ **Environment:** Docker + Docker Compose  
+✅ **Status:** Successfully built and verified on EC2 instance  
+
+---
+
